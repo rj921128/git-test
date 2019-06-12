@@ -15,5 +15,9 @@ public class FirstClass {
         System.out.println("从此无心爱凉月");
         System.out.println("任他明月下西楼");
     }
+    //创建git Repository时,只有选择上层目录,创建出来的git文件夹才能处于工作目录,这样可以省去很多麻烦
+    public void test(){
+        int i = 0;
+        i += 10;
+    }//首次编写之后,出现的绿色部分,代表新添加的内容
 }
-//创建git Repository时,只有选择上层目录,创建出来的git文件夹才能处于工作目录,这样可以省去很多麻烦
